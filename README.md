@@ -1,1 +1,1 @@
-https://colab.research.google.com/drive/1VKR8ZjSBD_BHJD1GiiD3Q4k-9NmY44Y0?usp=sharing
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tu-usuario/practica7-logistica/blob/main/practica7.ipynb)
